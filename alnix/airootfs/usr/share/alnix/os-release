@@ -1,0 +1,9 @@
+NAME="Alnix"
+PRETTY_NAME="Alnix (Warden)"
+VERSION="Warden"
+VERSION_CODENAME=warden
+ID=alnix
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+LOGO=alnix-logo
